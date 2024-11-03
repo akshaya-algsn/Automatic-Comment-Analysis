@@ -1,7 +1,7 @@
-# Amazon Product Review Analyzer
+# Automatic Product Review Analyzer
 
 ## Project Overview
-The Amazon Product Review Analyzer is a web scraping application that collects and analyzes product reviews from e-commerce websites like Amazon and Flipkart. Using Selenium and BeautifulSoup, the app scrapes product data and performs sentiment analysis on customer reviews. The application provides recommendations based on the feedback and visualizes the analysis using charts. It also generates automated PowerPoint reports, making it a valuable tool for gaining insights into customer sentiment.
+The Automatic Product Review Analyzer is a web scraping application that collects and analyzes product reviews from e-commerce websites like Amazon and Flipkart. Using Selenium and BeautifulSoup, the app scrapes product data and performs sentiment analysis on customer reviews. The application provides recommendations based on the feedback and visualizes the analysis using charts. It also generates automated PowerPoint reports, making it a valuable tool for gaining insights into customer sentiment.
 
 ## Features
 - **Web Scraping**: Extracts product information and customer reviews from Amazon and Flipkart.
